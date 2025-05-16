@@ -68,6 +68,8 @@ const Pixelated = () => {
     "/images/image6.jpg",
     "/images/image7.jpg",
     "/images/image8.jpg",
+    "/images/image9.jpg",
+    "/images/image10.jpg",
   ];
 
   const [currentImageIndex, setCurrentImageIndex] = useState(0);

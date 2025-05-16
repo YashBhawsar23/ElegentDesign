@@ -5,9 +5,9 @@ import PixelatedCanvas from "./PixelEffect";
 function App() {
   return (
     <>
-      {/* <Pixelated /> */}
+      <Pixelated />
       {/* <BlurEffect /> */}
-      <PixelatedCanvas />
+      {/* <PixelatedCanvas /> */}
     </>
   );
 }
