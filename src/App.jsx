@@ -4,8 +4,8 @@ import Pixelated from "./Pixelated";
 function App() {
   return (
     <>
-      {/* <Pixelated /> */}
-      <BlurEffect />
+      <Pixelated />
+      {/* <BlurEffect /> */}
     </>
   );
 }
