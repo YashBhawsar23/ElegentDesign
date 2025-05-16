@@ -1,9 +1,11 @@
+import BlurEffect from "./Blur";
 import Pixelated from "./Pixelated";
 
 function App() {
   return (
     <>
-      <Pixelated />
+      {/* <Pixelated /> */}
+      <BlurEffect />
     </>
   );
 }
